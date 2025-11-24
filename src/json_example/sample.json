@@ -1,0 +1,15 @@
+{
+    "emp_details": [
+        {
+            "name": "sathiyajith",
+            "rollno": 56,
+            "cgpa": 8.6,
+            "phonenumber": "9976770500"
+        },
+        {
+            "emp_name": "Nikhil",
+            "email": "nikhil@geeksforgeeks.org",
+            "job_profile": "Full Time"
+        }
+    ]
+}
